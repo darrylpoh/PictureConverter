@@ -1,4 +1,4 @@
-# PictureConverter
+# PictureConverter:framed_picture:
 
 To convert JPG to PNG!
 
